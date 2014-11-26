@@ -14,4 +14,4 @@ Usage
 
 Bug Reporting
 =============
-On [gtihub](https://github.com/LEdoian/CustomSearch) in the _Bugs_ section
+On [gtihub](https://github.com/LEdoian/CustomSearch) in the _Issues_ section
