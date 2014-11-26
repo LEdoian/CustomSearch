@@ -2,7 +2,7 @@ Introduction
 ============
 A CLI program to make search of your want in your favourite web browser, inspired by *!bangs* on [DuckDuckGo](https://duckduckgo.com)
 
-Usage < Someday >
+Usage
 =====
 ./whatever *search term*		Perform a search on *search term*
 ./whatever				Interactive mode (you'll be asked for your search term and for search engine, if needed)
